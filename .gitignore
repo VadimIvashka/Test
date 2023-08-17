@@ -1,5 +1,11 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.KORUS_Task.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
